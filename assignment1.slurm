@@ -12,4 +12,4 @@
 export TMPDIR=/tmp
 cd /groups/yotam/kawtheralbader/
 module load R
-R CMD BATCH /groups/yotam/kawtheralbader/assignment1.R
+R CMD BATCH /groups/yotam/kawtheralbader/assignment1/assignment1.R
